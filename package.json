@@ -1,0 +1,16 @@
+{
+  "name": "jswd-project-6",
+  "version": "1.0.0",
+  "description": "Use NodeJS and NPM packages to create a web scraper and save the crawl results to a CSV file.",
+  "main": "scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Martin Jones",
+  "license": "MIT",
+  "dependencies": {
+    "json2csv": "^3.11.5",
+    "x-ray": "^2.3.2",
+    "fs": "0.0.1-security"
+  }
+}
